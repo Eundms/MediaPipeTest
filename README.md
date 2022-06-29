@@ -1,1 +1,2 @@
-# Bluring-FaceRecognization
+# Google MediaPipeTest
+Flask.. 
